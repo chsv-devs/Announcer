@@ -1,0 +1,10 @@
+﻿name: Announcer
+version: "1.0.0"
+api: [1.0.0]
+author: hancho
+main: hancho.plugin.nukkit.announcer.Announcer
+
+commands:
+  공지:
+    description: 공지를 키고 끌 수 있어요.
+    permission: "true"
